@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Endless Runner</title>
+</head>
+<body>
+    <!-- canvas is created dynamically -->
+    <!-- Load ResourceManager first -->
+    <script src="src/res/ResourceManager.js"></script>
+    <!-- Load prefabs -->
+    <script src="src/prefab/Spaceship.js"></script>
+    <script src="src/prefab/Meteor.js"></script>
+    <!-- Load upgrades system -->
+    <script src="src/upgrade/Upgrades.js"></script>
+    <script src="src/upgrade/DroneUpgrade.js"></script>
+    <!-- NEW: Load ShieldUpgrade -->
+    <script src="src/upgrade/ShieldUpgrade.js"></script>
+    <!-- Load UpgradeMenu -->
+    <script src="src/scene/UpgradeMenu.js"></script>
+    <!-- Load scenes; TutorialScene and CreditsScene must be loaded before MenuScene -->
+    <script src="src/scene/TutorialScene.js"></script>
+    <script src="src/scene/CreditsScene.js"></script>
+    <script src="src/scene/play.js"></script>
+    <script src="src/scene/menu.js"></script>
+    <!-- NEW: Load LoadingScene -->
+    <script src="src/scene/LoadingScene.js"></script>
+    <script src="src/main.js"></script>
+</body>
+</html>
