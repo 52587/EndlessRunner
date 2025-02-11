@@ -8,15 +8,6 @@ In Celestial Odyssey, you are the last hope of the Astral Dominion. Navigate thr
 
 ## Getting Started
 
-### Prerequisites
-- A modern web browser (Chrome, Firefox, Safari, Edge)
-- Local web server (recommended) or file system access
-
-### Installation
-1. Clone the repository or download the ZIP file
-2. If using a local web server, place the files in your web server directory
-3. Open index.html in your web browser
-
 ## How to Play
 
 ### Controls
@@ -61,18 +52,3 @@ EndlessRunner/
 - Music: Suno AI
 - Sound Effects: FreeSound.org
 - Graphics: Custom-made for this project
-
-## Version History
-
-* 1.0.0
-    * Initial Release
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-* CMPM 120 - Game Development Experience
-* Endless runner genre inspiration
-* Space game classics
